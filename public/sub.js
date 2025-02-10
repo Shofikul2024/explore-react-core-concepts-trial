@@ -1,5 +1,13 @@
-let x= 20 ;
-let y= 15 ;
+// let x= 20 ;
+// let y= 15 ;
 
-result =  x-y ;
- console.log( result) ;
+// let result =  x-y ;
+//  console.log(result) ;
+
+
+
+ let x = 20;
+let y = 15;
+
+let result = x - y;
+console.log(result);
